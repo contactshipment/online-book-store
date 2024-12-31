@@ -33,7 +33,8 @@
 		href="wp-content/uploads/al_opt_content/IMAGE/smartkidsbundle.com/wp-content/uploads/2024/09/Untitled-design-2024-09-21T005241.791.png.bv_resized_ipad.png.bv1871.webp?bv_host=smartkidsbundle.com" />
 	<link id="bv-preloaded" rel="preload" as="image" type="image/webp" media="(max-width: 480px)"
 		href="wp-content/uploads/al_opt_content/IMAGE/smartkidsbundle.com/wp-content/uploads/2024/09/Untitled-design-2024-09-21T005241.791.png.bv_resized_mobile.png.bv1871.webp?bv_host=smartkidsbundle.com" />
-	<!-- Airlift Backward compatibility: Handling older plugin versions -->
+	<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/562/562132.png" type="image/x-icon">
+		<!-- Airlift Backward compatibility: Handling older plugin versions -->
 
 
 	<script id="bv-lazyload-images" data-cfasync="false"
@@ -6560,7 +6561,7 @@
 							data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a class="elementor-button elementor-size-sm" role="button">
+									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-icon">
 												<svg aria-hidden="true"
@@ -6919,7 +6920,7 @@
 						data-widget_type="button.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-button-wrapper">
-								<a class="elementor-button elementor-size-sm" role="button">
+								<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
 									<span class="elementor-button-content-wrapper">
 										<span class="elementor-button-icon">
 											<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right"
@@ -7172,7 +7173,7 @@
 							data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a class="elementor-button elementor-size-sm" role="button">
+									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-icon">
 												<svg aria-hidden="true" class="e-font-icon-svg e-fas-cart-plus"
@@ -8299,7 +8300,7 @@
 									data-widget_type="button.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-button-wrapper">
-											<a class="elementor-button elementor-size-sm" role="button">
+											<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
 												<span class="elementor-button-content-wrapper">
 													<span class="elementor-button-icon">
 														<svg aria-hidden="true"
@@ -8424,7 +8425,7 @@
 					data-widget_type="button.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-button-wrapper">
-							<a class="elementor-button elementor-size-sm elementor-animation-bob" role="button">
+							<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm elementor-animation-bob" role="button">
 								<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-icon">
 										<svg aria-hidden="true" class="e-font-icon-svg e-fas-cart-plus"
@@ -8441,100 +8442,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="elementor-element elementor-element-681c49a e-flex e-con-boxed e-con e-parent" data-id="681c49a"
-			data-element_type="container">
-			<div class="e-con-inner">
-				<div class="elementor-element elementor-element-e09d95c elementor-widget elementor-widget-html"
-					data-id="e09d95c" data-element_type="widget" data-widget_type="html.default">
-					<div class="elementor-widget-container">
-
-						<button class="razorpay-button" style="display:none;">Pay Now</button>
-
-
-						<template id="Q7WPI48C7CmxutISai3T"></template>
-
-
-						<script type="bv_inline_delayed_js" bv_unique_id="z1I9tocO9wmgGf7y7f9V" data-cfasync="false"
-							bv_inline_delayed="1" defer="1" async="">document.addEventListener("DOMContentLoaded", function () {
-    const buttons = document.querySelectorAll(".razorpay-button");
-
-    buttons.forEach(function (button) {
-        button.addEventListener("click", function (e) {
-            e.preventDefault();
-
-            // Make an AJAX request to fetch the order ID
-            fetch('wp-admin/admin-ajaxdeaf.json?action=create_order', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-            })
-                .then((response) => response.json())
-                .then((data) => {
-                    if (data.success) {
-                        // Open Razorpay payment popup with the generated order ID
-                        openRazorpay(data.order_id);
-                    } else {
-                        alert('Failed to create order: ' + data.message);
-                    }
-                })
-                .catch((error) => {
-                    console.error('Error:', error);
-                    alert('An error occurred while creating the order.');
-                });
-        });
-    });
-
-    function openRazorpay(order_id) {
-        const options = {
-            key: "rzp_live_n2vRc4t7U6Deam", // Replace with your Razorpay key
-            order_id: order_id, // Use the generated order ID
-            name: "Smart Kids Bundle",
-            description: "Purchase Description",
-            image: "https://smartkidsbundle.com/wp-content/uploads/2024/12/brie-2.png",
-            handler: function (response) {
-                // Redirect to Thank You page
-                window.location.href = `https://smartkidsbundle.com/thank-you/?payment_id=${encodeURIComponent(response.razorpay_payment_id)}`;
-            },
-            theme: {
-                color: "#0073aa",
-            },
-        };
-
-        const rzp = new Razorpay(options);
-        rzp.open();
-    }
-});</script>
-					</div>
-				</div>
-			</div>
-		</div>
+		
 	</div>
-	<script type="bv_inline_delayed_js" bv_unique_id="yncQgLmOFq6HJzi3iiMU" data-cfasync="false" bv_inline_delayed="1"
-		defer="1" async="">const lazyloadRunObserver = () => {
-					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
-					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
-						entries.forEach( ( entry ) => {
-							if ( entry.isIntersecting ) {
-								let lazyloadBackground = entry.target;
-								if( lazyloadBackground ) {
-									lazyloadBackground.classList.add( 'e-lazyloaded' );
-								}
-								lazyloadBackgroundObserver.unobserve( entry.target );
-							}
-						});
-					}, { rootMargin: '200px 0px 200px 0px' } );
-					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
-						lazyloadBackgroundObserver.observe( lazyloadBackground );
-					} );
-				};
-				const events = [
-					'DOMContentLoaded',
-					'elementor/lazyload/observe',
-				];
-				events.forEach( ( event ) => {
-					document.addEventListener( event, lazyloadRunObserver );
-				} );</script>
+	
 
 	<template id="Sjvz745NjrAYoOucItaM"></template>
 
