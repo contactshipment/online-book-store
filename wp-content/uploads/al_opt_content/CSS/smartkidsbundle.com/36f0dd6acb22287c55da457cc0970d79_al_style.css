@@ -1,0 +1,2354 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/706504eafff1af2d974134887de3ab93_KFOiCnqEu92Fr1Mu51QrEz0dL_nz_c) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/c067d8fa623df66e1fa0e23a548b9bf4_KFOiCnqEu92Fr1Mu51QrEzQdL_nz_c) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/c3cf2b0ad3ab9672495bb814f16c5106_KFOiCnqEu92Fr1Mu51QrEzwdL_nz_c) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/10e66dd2c8b7d7ceb613d61e33400612_KFOiCnqEu92Fr1Mu51QrEzMdL_nz_c) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/8d61aa961ad69589b334e05f2c711b4d_KFOiCnqEu92Fr1Mu51QrEz8dL_nz_c-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/roboto/v32/8ffe94ad4a72bbfdd71503f962a3a957_KFOiCnqEu92Fr1Mu51QrEz4dL_nz_c-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdLw_convertedeaf041ba49bffbe1f2d90b66d7bcbfe2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA_converted83337a179dc86b6fdfe126e7375870a7.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA_converted83337a179dc86b6fdfe126e7375870a7.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA_converted83337a179dc86b6fdfe126e7375870a7.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA_converted83337a179dc86b6fdfe126e7375870a7.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA_converted83337a179dc86b6fdfe126e7375870a7.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA_convertedbd492c884c74c270c07d66475fe6eec2.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsQ_convertedf9feb6ca91303d447fd74d44302b9e51.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xFIzIFKw_converted4636eb2e0d71bae8504b6afaaba4e608.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xMIzIFKw_converted4636eb2e0d71bae8504b6afaaba4e608.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xEIzIFKw_converted4636eb2e0d71bae8504b6afaaba4e608.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xLIzIFKw_converted4636eb2e0d71bae8504b6afaaba4e608.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xHIzIFKw_converted4636eb2e0d71bae8504b6afaaba4e608.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xGIzIFKw_converted1b0c79a54d22e5cccf977413d7c92d82.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzI_converted15458b3146e3199c641d511cf8dfa34c.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA_convertedcddac4e5cf44f639a1f5a4586947f752.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA_convertedcddac4e5cf44f639a1f5a4586947f752.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA_convertedcddac4e5cf44f639a1f5a4586947f752.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA_convertedcddac4e5cf44f639a1f5a4586947f752.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA_convertedcddac4e5cf44f639a1f5a4586947f752.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA_converted4c2e2bc0fa5a81c1c7c523abac7e32e4.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsQ_converted795cdeda7e9c3e6d45a991547feb3cfd.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA_convertedbb50ebcd685836e5ad3da5e8f62976b4.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA_convertedbb50ebcd685836e5ad3da5e8f62976b4.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA_convertedbb50ebcd685836e5ad3da5e8f62976b4.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA_convertedbb50ebcd685836e5ad3da5e8f62976b4.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA_convertedbb50ebcd685836e5ad3da5e8f62976b4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA_converted5cecca7648be32f55802b0fcbe921496.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsQ_convertedda0dd18cc7c90a15b1351ce12e2c082d.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA_converted593eb8e7321ddec2bddd7d25b1542050.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA_converted593eb8e7321ddec2bddd7d25b1542050.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA_converted593eb8e7321ddec2bddd7d25b1542050.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA_converted593eb8e7321ddec2bddd7d25b1542050.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA_converted593eb8e7321ddec2bddd7d25b1542050.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA_convertedee4705bec436ddcc3d54f21517a52858.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsQ_converted0489eaf437f0661dd652b3a09700c803.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxFIzIFKw_converted2dedd6e9520a9fcc65476ef036a8731f.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxMIzIFKw_converted2dedd6e9520a9fcc65476ef036a8731f.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxEIzIFKw_converted2dedd6e9520a9fcc65476ef036a8731f.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxLIzIFKw_converted2dedd6e9520a9fcc65476ef036a8731f.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxHIzIFKw_converted2dedd6e9520a9fcc65476ef036a8731f.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxGIzIFKw_converted4b88c9357a0ace6733b31aa339ab7c0c.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzI_converted9e9e2bcfeddb7ffe56679c96718839e7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCRc4EsA_convertedbe5581b6eb4320f771aaf3f0ae43f795.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fABc4EsA_convertedbe5581b6eb4320f771aaf3f0ae43f795.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCBc4EsA_convertedbe5581b6eb4320f771aaf3f0ae43f795.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBxc4EsA_convertedbe5581b6eb4320f771aaf3f0ae43f795.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCxc4EsA_convertedbe5581b6eb4320f771aaf3f0ae43f795.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fChc4EsA_converted1de8c81063dd053fb9989a3a37e05f41.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc4_convertedab0c646bc5ca4c344f17407fac057e20.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu72xKOzY_converted596a16d1a3d7285460ff31bff168440b.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu5mxKOzY_converted596a16d1a3d7285460ff31bff168440b.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7mxKOzY_converted596a16d1a3d7285460ff31bff168440b.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4WxKOzY_converted596a16d1a3d7285460ff31bff168440b.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7WxKOzY_converted596a16d1a3d7285460ff31bff168440b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxKOzY_converted4e9497409ea32dcc4963a865610445d5.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK_converted076c5442a5d6041754a3c871e9d716c9.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCRc4EsA_converted2a67d72c253bc882851cbf270fdcafaf.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fABc4EsA_converted2a67d72c253bc882851cbf270fdcafaf.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCBc4EsA_converted2a67d72c253bc882851cbf270fdcafaf.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBxc4EsA_converted2a67d72c253bc882851cbf270fdcafaf.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCxc4EsA_converted2a67d72c253bc882851cbf270fdcafaf.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fChc4EsA_converted49167644fcde194bc993ebb59bde0ba4.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4_convertedb42f8baf8d0462b9e08e9bc58144bc0d.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCRc4EsA_convertedeb242f7cfd245075adcec4798d5266b1.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfABc4EsA_convertedeb242f7cfd245075adcec4798d5266b1.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCBc4EsA_convertedeb242f7cfd245075adcec4798d5266b1.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBxc4EsA_convertedeb242f7cfd245075adcec4798d5266b1.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCxc4EsA_convertedeb242f7cfd245075adcec4798d5266b1.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfChc4EsA_converted0d58cd55dda5d3840af1ffe69a3ff5c1.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4_converteda1510171a7e2d88ac789f76d576e3a18.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCRc4EsA_converted89d94207c6d9188f3b81050c6c388ba2.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfABc4EsA_converted89d94207c6d9188f3b81050c6c388ba2.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCBc4EsA_converted89d94207c6d9188f3b81050c6c388ba2.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBxc4EsA_converted89d94207c6d9188f3b81050c6c388ba2.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCxc4EsA_converted89d94207c6d9188f3b81050c6c388ba2.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfChc4EsA_convertedab46b84ac8809f5418213e31ecc0d2c2.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc4_converted7431182d5ba8943b16d253d03acd3f17.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5q) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5q) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5q) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5q) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5q-2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5q-2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/smartkidsbundle.com/wp-content/uploads/al_opt_content/FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5q-2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/706504eafff1af2d974134887de3ab93_KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/c3cf2b0ad3ab9672495bb814f16c5106_KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/10e66dd2c8b7d7ceb613d61e33400612_KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/c067d8fa623df66e1fa0e23a548b9bf4_KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/8d61aa961ad69589b334e05f2c711b4d_KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/roboto/v32/8ffe94ad4a72bbfdd71503f962a3a957_KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzI.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzI.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7mxKOzY.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu72xKOzY.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4WxKOzY.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu5mxKOzY.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7WxKOzY.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxKOzY.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxK.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 200;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 600;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 800;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/5ad730fd83e157e5fe692a428d7c6825_BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6182e469dd749157fea5dc1881c1ef3e_BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/fe9f228dd546a3e6bfe9a10e5685518e_BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/ade47f33ff74e20301694cc07eccb570_BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/6581ab53c220b5828e37162349375431_BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/b4ee6253d8716e0e9c5d709dab5c4ed1_BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 900;
+  font-display:swap;
+  src: url(../../FONT/fonts.gstatic.com/s/robotoslab/v34/d44d540631575c3cfa5d1aadbe3db267_BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+; unicode-range: U+0100-1FFF, U+2070-DFFF, U+F900-FFFF, U+10000-1FFFF, U+20000-2FFFF, U+30000-3FFFF, U+40000-4FFFF, U+50000-5FFFF, U+60000-6FFFF, U+70000-7FFFF, U+80000-8FFFF, U+90000-9FFFF, U+A0000-AFFFF, U+B0000-BFFFF, U+C0000-CFFFF, U+D0000-DFFFF, U+E0000-EFFFF, U+F0000-FFFFF, U+100000-10FFFF;}
