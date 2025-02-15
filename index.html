@@ -34,7 +34,7 @@
 	<link id="bv-preloaded" rel="preload" as="image" type="image/webp" media="(max-width: 480px)"
 		href="wp-content/uploads/al_opt_content/IMAGE/smartkidsbundle.com/wp-content/uploads/2024/09/Untitled-design-2024-09-21T005241.791.png.bv_resized_mobile.png.bv1871.webp?bv_host=smartkidsbundle.com" />
 	<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/562/562132.png" type="image/x-icon">
-		<!-- Airlift Backward compatibility: Handling older plugin versions -->
+	<!-- Airlift Backward compatibility: Handling older plugin versions -->
 
 
 	<script id="bv-lazyload-images" data-cfasync="false"
@@ -6561,7 +6561,8 @@
 							data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
+									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm"
+										role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-icon">
 												<svg aria-hidden="true"
@@ -6920,7 +6921,8 @@
 						data-widget_type="button.default">
 						<div class="elementor-widget-container">
 							<div class="elementor-button-wrapper">
-								<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
+								<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm"
+									role="button">
 									<span class="elementor-button-content-wrapper">
 										<span class="elementor-button-icon">
 											<svg aria-hidden="true" class="e-font-icon-svg e-far-arrow-alt-circle-right"
@@ -7173,7 +7175,8 @@
 							data-widget_type="button.default">
 							<div class="elementor-widget-container">
 								<div class="elementor-button-wrapper">
-									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
+									<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm"
+										role="button">
 										<span class="elementor-button-content-wrapper">
 											<span class="elementor-button-icon">
 												<svg aria-hidden="true" class="e-font-icon-svg e-fas-cart-plus"
@@ -8300,7 +8303,8 @@
 									data-widget_type="button.default">
 									<div class="elementor-widget-container">
 										<div class="elementor-button-wrapper">
-											<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm" role="button">
+											<a href="https://pgpage.paygic.in/"
+												class="elementor-button elementor-size-sm" role="button">
 												<span class="elementor-button-content-wrapper">
 													<span class="elementor-button-icon">
 														<svg aria-hidden="true"
@@ -8425,7 +8429,8 @@
 					data-widget_type="button.default">
 					<div class="elementor-widget-container">
 						<div class="elementor-button-wrapper">
-							<a href="https://pgpage.paygic.in/" class="elementor-button elementor-size-sm elementor-animation-bob" role="button">
+							<a href="#" class="elementor-button elementor-size-sm elementor-animation-bob"
+								role="button">
 								<span class="elementor-button-content-wrapper">
 									<span class="elementor-button-icon">
 										<svg aria-hidden="true" class="e-font-icon-svg e-fas-cart-plus"
@@ -8434,7 +8439,8 @@
 												d="M504.717 320H211.572l6.545 32h268.418c15.401 0 26.816 14.301 23.403 29.319l-5.517 24.276C523.112 414.668 536 433.828 536 456c0 31.202-25.519 56.444-56.824 55.994-29.823-.429-54.35-24.631-55.155-54.447-.44-16.287 6.085-31.049 16.803-41.548H231.176C241.553 426.165 248 440.326 248 456c0 31.813-26.528 57.431-58.67 55.938-28.54-1.325-51.751-24.385-53.251-52.917-1.158-22.034 10.436-41.455 28.051-51.586L93.883 64H24C10.745 64 0 53.255 0 40V24C0 10.745 10.745 0 24 0h102.529c11.401 0 21.228 8.021 23.513 19.19L159.208 64H551.99c15.401 0 26.816 14.301 23.403 29.319l-47.273 208C525.637 312.246 515.923 320 504.717 320zM408 168h-48v-40c0-8.837-7.163-16-16-16h-16c-8.837 0-16 7.163-16 16v40h-48c-8.837 0-16 7.163-16 16v16c0 8.837 7.163 16 16 16h48v40c0 8.837 7.163 16 16 16h16c8.837 0 16-7.163 16-16v-40h48c8.837 0 16-7.163 16-16v-16c0-8.837-7.163-16-16-16z">
 											</path>
 										</svg> </span>
-									<span class="elementor-button-text">Get Smart Kids Learning Bundle Now!</span>
+									<span class="elementor-button-text" id="pay">Get Smart Kids Learning Bundle
+										Now!</span>
 								</span>
 							</a>
 						</div>
@@ -8442,9 +8448,9 @@
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
-	
+
 
 	<template id="Sjvz745NjrAYoOucItaM"></template>
 
@@ -8453,7 +8459,81 @@
 	<template id="9kMPHCH8Qmx73jHTGNit"></template>
 	<template id="9AF2UvUlVFU7DSGEMYic"></template>
 	<template id="wIMkesizVjhLTurka7ye"></template>
+	<script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+	<script type="module">
 
+		async function handlePayment(amount) {
+		
+			try {
+				// ✅ Fetch order details from backend
+				const response = await fetch('https://e-book-backend.vercel.app/api/payment/create-order', {
+					method: "POST",
+					headers: { "Content-Type": "application/json" },
+					body: JSON.stringify({ amount: amount, currency: "INR" })
+				});
+
+				const data = await response.json();
+				if (!data.id) {
+					showToast("Order creation failed!", "error");
+					console.error("Order creation failed:", data);
+					return;
+				}
+
+				// ✅ Configure Razorpay with dynamic order ID
+				var options = {
+					"key": "rzp_live_jNNJOmMCSvVJOM", // Use your live/test Razorpay Key ID
+					"amount": data.amount,
+					"currency": data.currency,
+					"name": "Smart Kids Learning Bundle!",
+					"description": "One-Time Payment for Books",
+					"image": "",
+					"order_id": data.id, // Dynamic Order ID
+					"callback_url": 'https://e-book-backend.vercel.app/api/payment/verify-payment', // Backend to verify payment
+					"prefill": {
+						"name": "N/A",
+						"email": "N/A",
+						"contact": "N/A"
+					},
+					"theme": { "color": "#3399cc" },
+					"handler": async function (response) {
+						try {
+							const verifyResponse = await fetch('https://e-book-backend.vercel.app/api/payment/verify-payment', {
+								method: "POST",
+								headers: { "Content-Type": "application/json" },
+								body: JSON.stringify(response),
+							});
+
+							const verifyData = await verifyResponse.json();
+							if (verifyData.status === "success") {
+								window.location.href = "/"
+							} else {
+							
+								console.error("Payment failed:", verifyData);
+							}
+
+						} catch (error) {
+							showToast("Error verifying payment!", "error");
+							console.error("Error verifying payment:", error);
+						}
+					}
+				};
+
+				var rzp1 = new Razorpay(options);
+				rzp1.open();
+			} catch (error) {
+			
+				console.error("Error processing payment:", error);
+			}
+		}
+
+	
+
+		document.getElementById("pay").addEventListener("click", (e) => {
+			e.preventDefault();
+			handlePayment(299);
+		});
+
+	</script>
 
 	<script type="bv_inline_delayed_js" bv_unique_id="XwwVyAmcGQfN27sfws1U" id="wp-i18n-js-after" data-cfasync="false"
 		bv_inline_delayed="1" defer="1"
